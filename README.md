@@ -47,7 +47,7 @@ Check out some of my work and ongoing projects:
 - Gained experience in analyzing **geospatial data** using **GeoPandas** and visualizing data on maps using **Folium**.
 
 ## Interests
-- Data Science 📊
+- Dashbording 📊
 - Data Visualization 📉
 - Geospatial Analysis 🌍
 - Technology and Education 💡
