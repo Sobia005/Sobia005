@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com)
 
 ## Contact Information
-- 📞 **Phone**: (615)-830-7037
 - ✉️ **Email**: [nskousar123@gmail.com](mailto:nskousar123@gmail.com)
 - 🌍 **Location**: Nashville, TN
 
