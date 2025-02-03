@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com)
 
 ## Contact Information
-- ✉️ **Email**: [nskousar123@gmail.com](mailto:nskousar123@gmail.com)
+- ✉️ **Email**: [Sobia.K.Lodhi@outlook.com](mailto:Sobia.K.Lodhi@outlook.com)
 - 🌍 **Location**: Nashville, TN
 
 ## Career Summary
